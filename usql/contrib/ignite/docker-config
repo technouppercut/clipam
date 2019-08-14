@@ -1,0 +1,5 @@
+# see https://github.com/apache/ignite/tree/master/modules/docker
+
+NAME=ignite
+IMAGE=ignite-x
+NETWORK=host

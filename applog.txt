@@ -1,0 +1,133 @@
+Clipam Logfile
+2019-07-27 20:23:38.494007
+Directory Creation Was Successful For Directory: /data 
+Building Database: ipdb.sql @: /data/ 
+Clipam Logfile
+2019-07-27 20:39:50.521715
+Clipam Logfile
+2019-07-27 20:40:45.449609
+1.1.1.1255.255.255.0giga.ios.uno
+Clipam Logfile
+2019-07-27 20:41:20.677240
+1.1.1.1 255.255.255.0 giga.ios.uno
+Clipam Logfile
+2019-07-27 20:41:51.634463
+Device Entry: 
+1.1.1.1 255.255.255.0 giga.ios.uno
+Clipam Logfile
+2019-07-27 20:42:42.141126
+Device Entry: 
+ IP  NETMASK  DEVICE  
+1.1.1.1 255.255.255.0 giga.ios.uno
+Clipam Logfile
+2019-07-27 20:43:06.573187
+Device Entry: 
+ IP    NETMASK    DEVICE  
+1.1.1.1 255.255.255.0 giga.ios.uno
+Clipam Logfile
+2019-07-27 20:43:33.940491
+Device Entry: 
+   IP      NETMASK      DEVICE  
+1.1.1.1 255.255.255.0 giga.ios.uno
+Clipam Logfile
+2019-07-28 13:05:25.564737
+Clipam Help Menu
+clipam <ip addr> <netmask> <hostname> <comment>
+clipam 1.1.1.1 255.255.255.0 giga.ios.devicename CoreRouter
+Input IP Address: Input Netmask: Input IP Address: Clipam Help Menu
+clipam <ip addr> <netmask> <hostname> <comment>
+clipam 1.1.1.1 255.255.255.0 giga.ios.devicename CoreRouter
+Clipam Logfile
+2019-07-28 13:12:42.875249
+Clipam Logfile
+2019-07-28 13:14:43.618087
+Clipam Logfile
+2019-07-28 13:14:50.258417
+1.1.1.1
+1.1.1.1
+Clipam Logfile
+2019-07-28 14:11:49.875050
+Clipam Logfile
+2019-07-28 14:12:15.508386
+Clipam Logfile
+2019-07-28 14:13:17.002845
+Device Entry: 
+   IP      NETMASK      DEVICE  
+1.1.1.1 255.255.255.0 giga.ios
+Clipam Logfile
+2019-07-28 14:20:15.682174
+Device Entry: 
+   IP      NETMASK      DEVICE  
+2.2.2.2 255.255.255.0 giga.ros.core
+Clipam Help Menu
+clipam <ip addr> <netmask> <hostname> <comment>
+clipam 1.1.1.1 255.255.255.0 giga.ios.devicename CoreRouter
+Clipam Help Menu
+clipam <ip addr> <netmask> <hostname> <comment>
+clipam 1.1.1.1 255.255.255.0 giga.ios.devicename CoreRouter
+Usage: myapp.py [options]
+
+Options:
+  -h, --help            show this help message and exit
+  -i IPADDR, --ipaddr=IPADDR
+                        Device IP Address
+  -n NETMASK, --netmask=NETMASK
+                        Device Netmask
+  -d DEVICE, --device=DEVICE
+                        Device Hostname
+  -c COMMENT, --comment=COMMENT
+                        Device Comment Or Description
+10.10.10.1
+usage: newapp.py [-h] [-i IPADDR] [-n NETMASK] -d DEVICE [-c COMMENT]
+                 [-f FIND] [-r REMOVE]
+
+optional arguments:
+  -h, --help            show this help message and exit
+  -i IPADDR, --ipaddr IPADDR
+                        Device IP Address
+  -n NETMASK, --netmask NETMASK
+                        Device Netmask
+  -d DEVICE, --device DEVICE
+                        Device Hostname
+  -c COMMENT, --comment COMMENT
+                        Device Comments Or Description
+  -f FIND, --find FIND  Find Device
+  -r REMOVE, --remove REMOVE
+                        Remove Device
+Clipam Help Menu
+clipam <ip addr> <netmask> <hostname> <comment>
+clipam 1.1.1.1 255.255.255.0 giga.ios.devicename CoreRouter
+Clipam Help Menu
+clipam <ip addr> <netmask> <hostname> <comment>
+clipam 1.1.1.1 255.255.255.0 giga.ios.devicename CoreRouter
+Clipam Help Menu
+clipam <ip addr> <netmask> <hostname> <comment>
+clipam -i 1.1.1.1 -n 255.255.255.0 -d giga.ios.devicename -c CoreRouter
+Clipam Help Menu
+clipam <ip addr> <netmask> <hostname> <comment>
+clipam -i 1.1.1.1 -n 255.255.255.0 -d giga.ios.devicename -c CoreRouter
+4.4.4.4
+Clipam Help Menu
+clipam <ip addr> <netmask> <hostname> <comment>
+clipam -i 1.1.1.1 -n 255.255.255.0 -d giga.ios.devicename -c CoreRouter
+Clipam Help Menu
+clipam <ip addr> <netmask> <hostname> <comment>
+clipam -i 1.1.1.1 -n 255.255.255.0 -d giga.ios.devicename -c CoreRouter
+Clipam Help Menu
+clipam <ip addr> <netmask> <hostname> <comment>
+clipam -i 1.1.1.1 -n 255.255.255.0 -d giga.ios.devicename -c CoreRouter
+Clipam Help Menu
+clipam <ip addr> <netmask> <hostname> <comment>
+clipam -i 1.1.1.1 -n 255.255.255.0 -d giga.ios.devicename -c CoreRouter
+Clipam Logfile
+2019-08-14 13:02:51.396447
+Clipam Logfile
+2019-08-14 13:02:55.457287
+Device Entry: 
+   IP      NETMASK      DEVICE  
+5.5.5.5 255.255. devi.uno
+Clipam Logfile
+2019-08-14 13:05:51.456906
+Device Entry: 
+   IP      NETMASK      DEVICE  
+7.7.7.7 355 devuno

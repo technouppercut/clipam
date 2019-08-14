@@ -1,0 +1,29 @@
+import os
+import sys
+
+def menu_opts():
+
+    args = sys.argv
+    args = args[1:]
+
+    if len(args) == 0:
+        print('Clipam Help Menu')
+        print("clipam <ip addr> <netmask> <hostname> <comment>")
+        print("clipam 1.1.1.1 255.255.255.0 giga.ios.devicename CoreRouter")
+
+
+    else:
+        for a in args:
+            if a == '--add':
+                addip.Addip()
+
+            elif a == '--find':
+                print('Finding IP Address: ')
+            elif a == '--remove':
+                print('Removing IP Address: ')
+
+
+
+if __name__ == '__main__':
+    menu_opts()
+

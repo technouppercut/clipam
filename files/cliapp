@@ -1,0 +1,24 @@
+import sys
+import os
+import addip
+
+def menu_opts():
+
+    args = sys.argv
+    args = args[1:]
+
+    if len(args) == 0:
+        print('Help Menu')
+    else:
+        for a in args:
+            if a == '--add':
+                addip.Addip()
+
+            elif a == '--find':
+                print('Finding IP Address: ')
+            elif a == '--remove':
+                print('Removing IP Address: ')
+
+
+if __name__ == '__main__':
+    menu_opts()
