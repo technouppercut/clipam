@@ -131,3 +131,14 @@ Clipam Logfile
 Device Entry: 
    IP      NETMASK      DEVICE  
 7.7.7.7 355 devuno
+Clipam Help Menu
+clipam <ip addr> <netmask> <hostname> <comment>
+clipam -i 1.1.1.1 -n 255.255.255.0 -d giga.ios.devicename -c CoreRouter
+Clipam Help Menu
+clipam <ip addr> <netmask> <hostname> <comment>
+clipam -i 1.1.1.1 -n 255.255.255.0 -d giga.ios.devicename -c CoreRouter
+Clipam Logfile
+2019-08-15 10:06:53.185123
+Device Entry: 
+   IP      NETMASK      DEVICE  
+6.6.6.6 255.255 dork

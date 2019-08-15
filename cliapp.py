@@ -21,7 +21,7 @@ parser.add_option("-c", "--comment", help="Device Comment Or Description")
 #print(options.ipaddr)
 #print(options.netmask)
 #subprocess.call(["python3 clipdb.py"])
-if len(args) == 1:
+if len(args) == 0:
     clihelp.menu_help()
 else:
     os.system('python3 clipdb.py' + ' ' + options.ipaddr + ' ' + options.netmask + ' ' + options.device + ' ' + options.comment)
